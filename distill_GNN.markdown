@@ -17,6 +17,12 @@ A set of objects, and the connections between them, are naturally expressed as a
 ![image](https://github.com/user-attachments/assets/224a4691-b7f6-4b61-a67b-00de489bb7a8)
 
 
+### The simplest GNN:  learn new embeddings for all graph attributes 
+![image](https://github.com/user-attachments/assets/0f7de3f5-1920-4859-bb83-d4899e74309d)
+- output graph of a GNN with the same adjacency list and the same number of feature vectors as the input graph
+- But, the output graph has updated embeddings, since the GNN has updated each of the node, edge and global-context representations
+
+
 
 #### Thinking in early / spatio temporal / graph aspects:
 
